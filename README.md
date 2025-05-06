@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katiemackness&label=Profile%20views&base=1230&abbreviated=true&color=252da1&style=for-the-badge" alt="sharif-islam96403" /> </p>
   <h3> Data Scientist | Python | SQL | Data Visualization | Machine Learning | Statistics | Creativity & Innovation </h3>
   
-  - Working on **Data Visualization** project using <span><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI logo" title="Power BI" height="30" align=center /></span>
+  - Working on **Time Series Analysis** projects using **yfinance** and <span><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib logo" title="Matplotlib" height="30" align="center"/></span>.
   
-  - Exploring <span><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib logo" title="Matplotlib" height="30" align="center"/></span> and <span><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn logo" title="scikit-learn" height="30" align="center" /></span>.
+  - Exploring <img alt="Plotly Dash" src="https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" style="max-width: 100%;"> and <span><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn logo" title="scikit-learn" height="30" align="center" /></span>.
 
 <h3 align="left">Connect with me:</h3>
 
@@ -60,6 +60,9 @@ Here are some ideas to get you started:
 &nbsp;
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 &nbsp;
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+&nbsp;
+![Plotly Dash](https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 <br>
 
@@ -97,14 +100,6 @@ Here are some ideas to get you started:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 <br>
 
-### <u> Currently I'm learning: </u>
-<br>
-
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-&nbsp;
-
 <hr>
 
 
@@ -112,4 +107,4 @@ Here are some ideas to get you started:
 
 Credit: [katiemackness](https://github.com/katiemackness)
 
-Last Edited on: 11/02/2025
+Last Edited on: 06/05/2025
